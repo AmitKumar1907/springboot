@@ -1,0 +1,15 @@
+server:
+  port: 777
+spring:
+  mail:
+    host: smtp.gmail.com
+    username: kumar876557@gmail.com
+    password: dggocqfsmovqqkph
+    port: 587
+    properties:
+      mail:
+        smtp:
+          starttls:
+            enable: true
+          auth: true
+
