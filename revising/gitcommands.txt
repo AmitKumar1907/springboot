@@ -9,3 +9,4 @@ ssh-keygen -t ed25519 -C "kumaramit640690@gmail.com"(for private repo do this ex
 now the key generated copy the key path and run
 cat key path
 git push -u origin main
+
